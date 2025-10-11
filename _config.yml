@@ -53,10 +53,8 @@ title-img: "/assets/img/my_face.webp"
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ben@nathanson.dev"
   github: ben-nathanson
   linkedin: benenathanson
-  calendly: benedwinnathanson
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
