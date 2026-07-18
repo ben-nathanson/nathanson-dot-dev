@@ -26,6 +26,7 @@ share-description: Ben's favorite books
 | Hobbit, The | J. R. R. Tolkein |
 | How to Change Your Mind | Michael Pollan |
 | How to Do Nothing | Jenny Odell |
+| Invention and Innovation | Vaclav Smil |
 | JavaScript and JQuery | Jon Duckett |
 | Johnstown Flood, The | David McCullough |
 | Kite Runner, The | Khaled Hosseini |
